@@ -10,6 +10,7 @@ namespace 值传递和引用传递1
     {
         static void Main(string[] args)
         {
+            //想死的心都有朝野上下
         }
     }
 }
